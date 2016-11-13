@@ -10,9 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-// Folder 3         
+// Folder 3
 //Comment 1
-
+// Addtional Comment
 
         // Comment Added.
         // Hello Task 4
